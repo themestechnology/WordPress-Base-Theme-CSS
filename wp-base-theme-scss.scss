@@ -244,7 +244,7 @@ blockquote.right {
 
 .pagenav {}               /* outermost list item */
 .page_item {}             /* any page item */
-.page-item-{id} {}        /* specific page id */
+//.page-item-{id} {}        /* specific page id */
 .current_page_item {}     /* current page */
 .current_page_parent {}   /* parent of current page */
 .current_page_ancestor {} /* any ancestor of current page */
@@ -403,7 +403,7 @@ blockquote.right {
 .commentlist li ul.children li.alt {}
 .commentlist li ul.children li.byuser {}
 .commentlist li ul.children li.comment {}
-.commentlist li ul.children li.depth-{id} {}
+//.commentlist li ul.children li.depth-{id} {}
 .commentlist li ul.children li.bypostauthor {}
 .commentlist li ul.children li.comment-author-admin {}
 
@@ -421,26 +421,26 @@ blockquote.right {
 .paged {}
 .attachment {}
 .error404 {}
-.single postid-(id) {}
-.attachmentid-(id) {}
-.attachment-(mime-type) {}
+//.single postid-(id) {}
+//.attachmentid-(id) {}
+//.attachment-(mime-type) {}
 .author {}
-.author-(user_nicename) {}
+//.author-(user_nicename) {}
 .category {}
-.category-(slug) {}
+//.category-(slug) {}
 .tag {}
-.tag-(slug) {}
+//.tag-(slug) {}
 .page-parent {}
-.page-child parent-pageid-(id) {}
-.page-template page-template-(template file name) {}
+//.page-child parent-pageid-(id) {}
+//.page-template page-template-(template file name) {}
 .search-results {}
 .search-no-results {}
 .logged-in {}
-.paged-(page number) {}
-.single-paged-(page number) {}
-.page-paged-(page number) {}
-.category-paged-(page number) {}
-.tag-paged-(page number) {}
-.date-paged-(page number) {}
-.author-paged-(page number) {}
-.search-paged-(page number) {}
+//.paged-(page number) {}
+//.single-paged-(page number) {}
+//.page-paged-(page number) {}
+//.category-paged-(page number) {}
+//.tag-paged-(page number) {}
+//.date-paged-(page number) {}
+//.author-paged-(page number) {}
+//.search-paged-(page number) {}
