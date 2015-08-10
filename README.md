@@ -17,6 +17,7 @@ Comments area: .commentlist
 
 You must define your SCSS variables before the import of the file in your Gruntfile.js
 
-$wp-base-css-background-color:#fff;
-$wp-base-css-border-color:#f0f0f0;
+>$wp-base-css-background-color:#fff;
+
+>$wp-base-css-border-color:#f0f0f0;
 
