@@ -1,0 +1,24 @@
+{
+    "name": "wordpress-base-theme-css",
+    "version": "0.0.1",
+      "main": [
+    "./wp-base-theme-css.css",
+    "./wp-base-theme-scss.scss"
+    ],
+     "repository": {
+    "type": "git",
+    "url": "https://github.com/themestechnology/WordPress-Base-Theme-CSS.git"
+  },
+    "homepage": "https://github.com/themestechnology/WordPress-Base-Theme-CSS",
+    "ignore": [
+        "bower.json",
+        "package.json",
+        "README.md",
+        "LICENSE"
+    ],
+    "description": "A theme ready list of CSS and SCSS of default class WordPress uses.",
+    "keywords": [
+    "wordpress css"
+    ],
+    "license": "MIT",
+}
