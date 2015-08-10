@@ -10,7 +10,8 @@
         "bower.json",
         "package.json",
         "README.md",
-        "LICENSE"
+        "LICENSE",
+        
     ],
     "description": "A theme ready list of CSS and SCSS of default class WordPress uses.",
     "keywords": [
