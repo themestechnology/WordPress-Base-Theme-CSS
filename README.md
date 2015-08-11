@@ -1,5 +1,5 @@
 # WordPress-Base-Theme-CSS
-A theme ready list of CSSof default class WordPress uses.
+A theme ready list of CSS of default class WordPress uses.
 
 Please report anything that has been missed or could be improved
 
